@@ -1,2 +1,2 @@
 # Notepad-Python
-A simple notepad using tkinter in python
+A simple notepad(in GUI) using tkinter in python
